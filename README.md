@@ -2,6 +2,6 @@
 
 End to end deep learning project using Tensorflow and Keras.  Using a dataset of dog images, trained a convolutional neural network to classify them by breed.
 
-## Data
+## Dataset
 
-The data is originally from [Stanford](http://vision.stanford.edu/aditya86/ImageNetDogs/).
+The dataset is originally from [Stanford](http://vision.stanford.edu/aditya86/ImageNetDogs/).
