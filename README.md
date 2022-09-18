@@ -1,6 +1,8 @@
 # Overview
 
-End to end deep learning project using Tensorflow and Keras.  Using a dataset of dog images, trained a convolutional neural network to classify them by breed.
+End to End Deep Learning Project using Tensorflow and Keras.  
+
+Using a dataset of dog images, trained a convolutional neural network to classify them by breed.
 
 ## Dataset
 
